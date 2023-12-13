@@ -1,3 +1,3 @@
 # my-repo
- My New repository
- 
+Este repositorio esta para practicar GITHUB y poder hacer los proyectos
+
